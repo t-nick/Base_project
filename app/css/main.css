@@ -1,0 +1,14 @@
+body {
+  background-color: pink;
+  color: #4a545d; }
+
+.message, .success {
+  border: 1px solid #ccc;
+  padding: 10px;
+  color: #333; }
+
+.success {
+  border-color: #fff; }
+
+.main {
+  width: 900px; }
